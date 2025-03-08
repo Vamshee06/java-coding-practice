@@ -1,4 +1,4 @@
-package org.basic.logics.streams.intermediate.operations;
+package org.basic.logics.streams.terminal.operations;
 
 import java.util.Arrays;
 import java.util.List;

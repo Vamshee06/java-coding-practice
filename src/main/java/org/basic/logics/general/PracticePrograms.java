@@ -1,7 +1,6 @@
-package com.prashanthi.services.PrashanthiServices.corejava;
+package org.basic.logics.general;
 
-import com.github.javafaker.Faker;
-import org.springframework.http.converter.json.GsonBuilderUtils;
+
 
 import java.util.*;
 
@@ -534,7 +533,7 @@ public class PracticePrograms {
 
     //Remove duplicate Numbers using faker api iterate through the loop and add to the list then add list to the set
 
-    public static void removeDuplicateNumbersUsingFakerApi() {
+  /*  public static void removeDuplicateNumbersUsingFakerApi() {
         List<Integer> list = new ArrayList<>();
         Faker faker = new Faker();
         for (int i = 0; i <= 10; i++) {
@@ -548,7 +547,7 @@ public class PracticePrograms {
         for (int i : set) {
             System.out.println("Removed duplicate elements from list:" + i);
         }
-    }
+    }*/
 
 
 

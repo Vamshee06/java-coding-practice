@@ -1,4 +1,4 @@
-package org.basic.logics;
+package org.basic.logics.general;
 
 public class FibonacciNumber {
 

@@ -1,2 +1,2 @@
-rootProject.name = "algorithms-coding-practice"
+rootProject.name = "java-coding-practice"
 
